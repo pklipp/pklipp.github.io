@@ -6,9 +6,27 @@
 </description>
     <link>http://uxwithpaul.com/</link>
     <atom:link href="http://uxwithpaul.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2015 19:07:03 +0200</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2015 19:07:03 +0200</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2015 19:09:06 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2015 19:09:06 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Ethnography in Software Design – An Anthropologist’s Point of View – a talk by Kelly Moran</title>
+        <description>&lt;iframe src=&quot;https://player.vimeo.com/video/122543173&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/122543173&quot;&gt;Ethnography in Software Design &amp;ndash; An Anthropologist&amp;rsquo;s Point of View - Kelly Moran&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/agilece&quot;&gt;ACE! Conferences&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ethnography claims its roots from the field of anthropology. How can a method used for such a seemingly exotic purpose be useful in the modern world of software design? Revealing and, most importantly, understanding user needs requires sensitivity, empathy, and a disciplined approach – all of which can be found within ethnography. This talk outlines the basic components of an ethnographic perspective, explores a case study from a recent engagement between projekt202 and an accounting software development firm, and highlights how the impact of this research ripples through the software development process.&lt;/p&gt;
+
+&lt;p&gt;This is a talk that Kelly Moran delivered in Krakow a couple of weeks ago and I found it fun and motivating. I think she does of great job of describing the value that ethnographic tools brought to an IT project that she worked on.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Mar 2015 17:36:27 +0100</pubDate>
+        <link>http://uxwithpaul.com/ethnography/2015/03/27/Ethnography-in-Software-Design-An-Anthropologists-Point-of-View-a-talk-by-Kelly-Moran.html</link>
+        <guid isPermaLink="true">http://uxwithpaul.com/ethnography/2015/03/27/Ethnography-in-Software-Design-An-Anthropologists-Point-of-View-a-talk-by-Kelly-Moran.html</guid>
+        
+        
+        <category>ethnography</category>
+        
+      </item>
     
       <item>
         <title>Creating My UX Learning Plan</title>
