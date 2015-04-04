@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX With Paul</title>
+    <description>I&#39;m teaching myself LeanUX, Design Thinking, design ethnography, and frontend coding and sharing the journey here
+</description>
+    <link>http://uxwithpaul.com/</link>
+    <atom:link href="http://uxwithpaul.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Apr 2015 18:47:58 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2015 18:47:58 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Creating My UX Learning Plan</title>
+        <description>&lt;p&gt;Over the course of the next year, my goal is to become a competent and perhaps even proficient UX researcher and designer able to generate and implement product design ideas that increase both sales and customer retention.&lt;/p&gt;
+
+&lt;p&gt;There are degrees in that these days. People go to university for six years to learn to do that. That fact makes it a bit intimidating. But I’ve reinvented myself many times in my career(s) (chef, event planner, teacher, marketer, sales, operations, balloon artist, juggler, project manager, trainer, and more to come) and I know that there’s a huge gap between academia and work.&lt;/p&gt;
+
+&lt;p&gt;I’ve worked with two people who were very successful self-taught professionals respected in that field. One is a leading design blogger and the other is a successful product manager. So I know it can be done.&lt;/p&gt;
+
+&lt;p&gt;The first step to becoming an X [insert your dream hob here] is to change your job title to X and then start doing X. Learning follows pretty naturally. Take it from an experienced employer, the biggest difference between a good employee and a bad one isn’t skill or experience, it’s the rare ability to do what you say you’re going to do. An inexperienced X who delivers beats a brilliant one who doesn’t any day of the week. So to be X, just do X, and fake it ’till you make it.&lt;/p&gt;
+
+&lt;p&gt;That said, the goal should be to learn and develop proficiency through experience as quickly as possible, so let me do a gap analysis here.&lt;/p&gt;
+
+&lt;p&gt;I’m going to start with a brief self-assessment.&lt;/p&gt;
+
+&lt;p&gt;Front-end development — I know a little HTML and CSS and almost no JavaScript. My skills in CSS predate HTML5 and my last serious work in front-end code was back in the days of table-based design. So I have a lot of catching up to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Copywriting&lt;/strong&gt; — I have a degree in English composition and I used to be a professional journalist. So I can write. However, there’s a lot more to copywriting than being able to write. I need to learn how to choose and use an appropriate voice that makes people feel connected to a brand. I also need to learn how to experiment with copy and learn from my mistakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graphic design&lt;/strong&gt; — I’ve done a bit of design work with Photoshop and Illustrator many years ago, but this is an aspect of the job I’d prefer to leave to experts. My product already has a good look and feel and the design elements are all in place. It’s easy enough to hire people if I need to for specific jobs, so I won’t be devoting a lot of time to working on my skills in this area.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sketching&lt;/strong&gt; — I’m terrible. I get nervous drawing a tree, and the best thing about trees is that as long as there are leaves on top, it looks like a tree. If I’m going to sketch user experiences as part of my toolkit for communicating ideas to users as part of any collaborative design effort, I’ll need to either improve my sketching skills or get more comfortable with working at my current skill level.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interviewing&lt;/strong&gt; — My experience as a journalist helps only in so far as I am not scared of talking to people. But the actual techniques used in a journalistic interview are all wrong for user research. The journalist isn’t looking for facts or understanding, but for juicy quotes that sell papers. My more limited experience with ethnographic interviewing will be much more useful. In an ethnographic interview, there are three goals: test hypotheses, discover, and bond. Usually an ethnographer is doing all three in what is called a semi-structured interview. Semi-structured in that it has certain research goals and the interviewer will have certain things they want to learn, but it’s also somewhat exploratory in nature and a bit of off-topic wandering can be very revealing and lead to new research goals. So I can do that, but I’ll need some guidance regarding how to do it in a product development context.&lt;/p&gt;
+
+&lt;p&gt;Finally, there are some toolkits or schools of thought that I think will be helpful to learn, including design thinking, customer development, leanUX, and lean startup. I’ve read books in most of these areas recently (I’ll list them below) but there’s a huge divide between reading about a technique and applying it. That’s a divide I’ll be crossing in the coming months, and I hope you’ll join me.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Mar 2015 17:36:27 +0100</pubDate>
+        <link>http://uxwithpaul.com/general/2015/03/26/Creating-My-UX-Learnin-Plan.html</link>
+        <guid isPermaLink="true">http://uxwithpaul.com/general/2015/03/26/Creating-My-UX-Learnin-Plan.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+      <item>
+        <title>Learn UX with Me</title>
+        <description>&lt;p&gt;I have to quickly develop my UX skills because I need to be able to create great experiences for my web users. I’m probably not alone in that. You may be working with a startup that has no UX specialist. You may be working in an enterprise that has no UX specialist. You may be working alone, and you’ve learned that features don’t sell subscriptions.&lt;/p&gt;
+
+&lt;p&gt;Join me.&lt;/p&gt;
+
+&lt;p&gt;I’ve recently stepped down from my project management role at one of the world’s leading Ruby on Rails web development shops to take the reins of one of its products. Going for me is the fact that the product is already profitable and is one of the most feature-rich products of its kind on the market. Also to my enourmous advantage is that the designer who created the interface is none other than Mariusz Ciesla and he did a brilliant job.&lt;/p&gt;
+
+&lt;p&gt;But that’s not enough. There is a lot of new competition appearing and features alone won’t continue to grow our user base. To do that, I need to learn to connect with them, understand them, and create the kind of experience that doesn’t just meet their needs, but makes their lives better. So much better that they help me to evangelize the product and re-invigorate our slagging sales growth curve.&lt;/p&gt;
+
+&lt;p&gt;I’m not quite starting from point zero. I did a design minor as an undergrad and I have a degree in anthropology and continued to take advanced courses in qualitative research methods during my masters studies. But that was a long time ago. I’m also good at interviewing, but my experience has been limited to journalism and what ethnographic interviewing I’ve done had more to do with “classic” ethnographic scenarios aimed at producing an ethnography, not for driving urgent business decisions.&lt;/p&gt;
+
+&lt;p&gt;So, if you can identify — if you need to learn design, user experience, customer development, lean startup, copywriting, and lean UX skills quickly — follow along. I’ll be doing at least one experient each week and sharing here what I read, what I did and what I learned as I set out to become the UX expert that Kanbanery needs me to be.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2015 17:36:27 +0100</pubDate>
+        <link>http://uxwithpaul.com/general/2015/03/24/Learn-UX-with_Me.html</link>
+        <guid isPermaLink="true">http://uxwithpaul.com/general/2015/03/24/Learn-UX-with_Me.html</guid>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+  </channel>
+</rss>
