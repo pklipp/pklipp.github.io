@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ethnography in Software Design – An Anthropologist’s Point of View – a talk by Kelly Moran"
+title:  "Ethnography in Software Design – An Anthropologist’s Point of View with Kelly Moran"
 date:   2015-03-27 16:36:27
 comments: true
 categories: ethnography
