@@ -11,8 +11,8 @@
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 56px;
+    font-size: 37px;
+    line-height: 1em;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -179,13 +179,17 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: $base-font-size;
     color: $grey-color;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 30.5px;
 }
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 36px;
+    color: $grey-color;
 }
 
 
@@ -198,9 +202,9 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 36px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.28em;
 
     @include media-query($on-laptop) {
         font-size: 36px;

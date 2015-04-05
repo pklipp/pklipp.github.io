@@ -152,8 +152,8 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 26px;
-  line-height: 56px;
+  font-size: 37px;
+  line-height: 1em;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left; }
@@ -270,12 +270,16 @@ pre {
     margin-bottom: 26px; }
 
 .post-meta {
-  font-size: 15.75px;
-  color: #828282; }
+  font-size: 18px;
+  color: #828282;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 30.5px; }
 
 .post-link {
   display: block;
-  font-size: 24px; }
+  font-size: 36px;
+  color: #828282; }
 
 /**
  * Posts
@@ -284,9 +288,9 @@ pre {
   margin-bottom: 26px; }
 
 .post-title {
-  font-size: 42px;
+  font-size: 36px;
   letter-spacing: -1px;
-  line-height: 1; }
+  line-height: 1.28em; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
