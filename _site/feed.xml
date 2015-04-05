@@ -6,9 +6,29 @@
 </description>
     <link>http://uxwithpaul.com/</link>
     <atom:link href="http://uxwithpaul.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Apr 2015 10:22:00 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2015 10:22:00 +0200</lastBuildDate>
+    <pubDate>Sun, 05 Apr 2015 10:40:27 +0200</pubDate>
+    <lastBuildDate>Sun, 05 Apr 2015 10:40:27 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Lean Product Management with Melissa Perri</title>
+        <description>&lt;iframe src=&quot;https://player.vimeo.com/video/122742946&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/122742946&quot;&gt;Keynote: Melissa Perri - Lean Product Management&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/agilece&quot;&gt;ACE! Conferences&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Melissa Perri’s keynote at ACE! last month was a big part of what inspired me to develop my product management skill set. It’s well worth a watch.&lt;/p&gt;
+
+&lt;p&gt;Product Management is an art of balancing customer needs with creating business value. Unfortunately; many of the tools and values we have as Product Managers do not focus on building products our customers need; but building what we “think” they will want. In this talk; we’ll look at traditional Product Management; and see how we can adapt Lean processes into the role to create better products for our customers. We’ll rethink our most common tools to better suit a customer focused approach; with plenty of example and real life stories.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Apr 2015 18:36:27 +0200</pubDate>
+        <link>http://uxwithpaul.com/product/management/2015/04/02/Lean-Product-Management-with-Melissa-Perri.html</link>
+        <guid isPermaLink="true">http://uxwithpaul.com/product/management/2015/04/02/Lean-Product-Management-with-Melissa-Perri.html</guid>
+        
+        
+        <category>product</category>
+        
+        <category>management</category>
+        
+      </item>
     
       <item>
         <title>My Reading List for Getting Started in UX</title>
