@@ -2,6 +2,7 @@
 layout: post
 title:  "Creating My UX Learning Plan"
 date:   2015-03-26 16:36:27
+comments: true
 categories: general
 ---
 Over the course of the next year, my goal is to become a competent and perhaps even proficient UX researcher and designer able to generate and implement product design ideas that increase both sales and customer retention.

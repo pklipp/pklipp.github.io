@@ -2,6 +2,7 @@
 layout: post
 title:  "Lean Product Management with Melissa Perri"
 date:   2015-04-02 16:36:27
+comments: true
 categories: Product Management
 ---
 

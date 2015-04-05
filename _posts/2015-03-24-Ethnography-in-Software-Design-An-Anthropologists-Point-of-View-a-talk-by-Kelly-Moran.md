@@ -2,6 +2,7 @@
 layout: post
 title:  "Ethnography in Software Design – An Anthropologist’s Point of View – a talk by Kelly Moran"
 date:   2015-03-27 16:36:27
+comments: true
 categories: ethnography
 ---
 <iframe src="https://player.vimeo.com/video/122543173" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/122543173">Ethnography in Software Design &ndash; An Anthropologist&rsquo;s Point of View - Kelly Moran</a> from <a href="https://vimeo.com/agilece">ACE! Conferences</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

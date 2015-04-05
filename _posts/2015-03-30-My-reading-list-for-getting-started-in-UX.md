@@ -2,6 +2,7 @@
 layout: post
 title:  "My Reading List for Getting Started in UX"
 date:   2015-03-30 16:36:27
+comments: true
 categories: UX
 ---
 
