@@ -11,12 +11,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "lato", sans-serif;
+  font-family: "Libre Baskerville", Baskerville, "Book Antiqua", Georgia, Times, serif;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.69em;
   font-weight: 300;
-  color: #111;
-  background-color: #fdfdfd;
+  color: #424242;
+  background-color: #f7f7f5;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -69,7 +69,7 @@ a {
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #111;
+    color: #424242;
     text-decoration: underline; }
 
 /**
@@ -166,8 +166,8 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
-    line-height: 1.5; }
+    color: #424242;
+    line-height: 1.69em; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
   @media screen and (max-width: 600px) {
@@ -175,7 +175,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #fdfdfd;
+      background-color: #f7f7f5;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
