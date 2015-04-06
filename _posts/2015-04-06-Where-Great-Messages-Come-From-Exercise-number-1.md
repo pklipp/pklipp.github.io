@@ -53,6 +53,6 @@ Here's what I found in the morning:
 
 [Download the PDF]({{ pklipp.github.io }}/assets/CompetitorCopy.pdf)
 
-I found it very interesting to have all of this text in one place. It's surprising to see how similar all of the various kanban applications look when you compare the headlines and button texts which are, probably (note to self: this is a testable assumption), all that most visitors read before clicking through for a free trail.
+I found it very interesting to have all of this text in one place. It's surprising to see how similar all of the various kanban applications look when you compare the headlines and button texts which are, probably (note to self: this is a testable assumption), all that most visitors read before clicking through for a free trial.
 
 That's hardly enough information to base my own copy decisions upon, but it does suggest that as I'm testing headlines, calls to action, and supporting texts there is a pretty common baseline for comparison. I can now begin to test whether all of the product in my category have figured out the magic formula for conversion-maximizing copy, or if they're all stuck in rut that I can take advantage of to differentiate my product in the market. 
