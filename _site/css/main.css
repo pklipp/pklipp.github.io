@@ -71,6 +71,9 @@ a {
   a:hover {
     color: #2a7ae2; }
 
+.right {
+  text-align: right; }
+
 /**
  * Blockquotes
  */

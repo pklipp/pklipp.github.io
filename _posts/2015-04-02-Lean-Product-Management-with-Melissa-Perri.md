@@ -3,7 +3,7 @@ layout: post
 title:  "Lean Product Management with Melissa Perri"
 date:   2015-04-02 16:36:27
 comments: true
-categories: Product Management
+categories: ProductManagement
 ---
 
 <iframe src="https://player.vimeo.com/video/122742946" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/122742946">Keynote: Melissa Perri - Lean Product Management</a> from <a href="https://vimeo.com/agilece">ACE! Conferences</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
