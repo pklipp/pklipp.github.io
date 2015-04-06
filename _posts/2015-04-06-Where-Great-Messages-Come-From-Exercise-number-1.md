@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where Great Messages Come From Exercise #1"
+title:  "Where Great Messages Come From Exercise number 1"
 date:   2015-04-06 16:36:27
 comments: true
 categories: copywriting
