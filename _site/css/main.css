@@ -168,7 +168,7 @@ pre {
 
 .subtitle {
   font-family: "Martel Sans", sans-serif;
-  margin-left: 20px; }
+  margin-left: 30px; }
 
 .site-nav {
   float: right;
@@ -324,6 +324,9 @@ pre {
     @media screen and (max-width: 680px) {
       .post-content h4 {
         font-size: 18px; } }
+
+img {
+  padding: 10px; }
 
 /**
  * Syntax highlighting styles
