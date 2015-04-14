@@ -49,7 +49,7 @@ Then I went to bed, because waiting for a response from an offshore virtual assi
 
 Here's what I found in the morning:
 
-![Competitor Copy]({{ pklipp.github.io }}/assets/CompetitorCopy.pdf)
+![Competitor Copy]({{ pklipp.github.io }}/assets/CompetitorCopy.png)
 
 [Download the PDF]({{ pklipp.github.io }}/assets/CompetitorCopy.pdf)
 
