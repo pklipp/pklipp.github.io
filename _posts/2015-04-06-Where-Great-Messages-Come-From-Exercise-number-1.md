@@ -16,34 +16,26 @@ A couple of months ago I was persuaded to try an [offshore personal assistant se
 
 So I sent them the following task:
 
->Here's my first attempt at describing a task that would be very helpful for me.
+>Here's my first attempt at describing a task that would be very helpful for me.   
+>Please go to http://limitedwipsociety.ning.com/page/tools where you'll find a list of all of many online products that compete with mine.   
 
->Please go to http://limitedwipsociety.ning.com/page/tools where you'll find a list of all of many online products that compete with mine.
+>Visit each of their websites and create a table with the following information:    
+>company name   
+>landing page URL   
+>Main headline   
+>Sub-headline (if there is one)   
+>Text on the main call to action button   
+>Text near the main call to action button    
 
->Visit each of their websites and create a table with the following information:
+>For example this is from the first site on the list:   
+>__Company Name__: AgileZen   
+>**URL**: agilezen.com   
+>**Headline**: Simple, visual and collaborative project management software.   
+>**Sub-headline**: AgileZen helps you and your team get things done quickly, efficiently, and effectively.   
+>**Button Text**: Choose your plan   
+>**Supporting Button text**: none (I did not include "Take the Tour" because it's not supporting text related to the button. If it said something like "30-day free trial" or "no credit card required" then I would include it. If you're unsure whether a text is relevant, just include it and I'll decide if it's useful for me.)   
 
->company name
->landing page URL
->Main headline
->Sub-headline (if there is one)
->Text on the main call to action button
->Text near the main call to action button
-
->For example this is from the first site on the list:
-
->Company Name: AgileZen
-
->URL: agilezen.com
-
->Headline: Simple, visual and collaborative project management software.
-
->Sub-headline: AgileZen helps you and your team get things done quickly, efficiently, and effectively.
-
->Button Text: Choose your plan
-
->Supporting Button text: none (I did not include "Take the Tour" because it's not supporting text related to the button. If it said something like "30-day free trial" or "no credit card required" then I would include it. If you're unsure whether a text is relevant, just include it and I'll decide if it's useful for me.)
-
->If it takes less than an hour, that's great. If it takes more than an hour, just do as many as you can, starting at the top, and stop after an hour.
+>If it takes less than an hour, that's great. If it takes more than an hour, just do as many as you can, starting at the top, and stop after an hour.   
 
 Then I went to bed, because waiting for a response from an offshore virtual assistant service can be nerve-wracking. It's so much more pleasant to make the request in the evening and then be surprised to find the work all done in your sleep, like the [Elves and the Shoemaker](http://en.wikipedia.org/wiki/The_Elves_and_the_Shoemaker).
 

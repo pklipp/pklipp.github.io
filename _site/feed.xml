@@ -6,8 +6,8 @@
 </description>
     <link>http://uxwithpaul.com/</link>
     <atom:link href="http://uxwithpaul.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Apr 2015 12:25:40 +0200</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2015 12:25:40 +0200</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2015 12:32:00 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 12:32:00 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,52 +23,28 @@
 &lt;p&gt;So I sent them the following task:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Here’s my first attempt at describing a task that would be very helpful for me.&lt;/p&gt;
+  &lt;p&gt;Here’s my first attempt at describing a task that would be very helpful for me. &lt;br /&gt;
+Please go to http://limitedwipsociety.ning.com/page/tools where you’ll find a list of all of many online products that compete with mine.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Please go to http://limitedwipsociety.ning.com/page/tools where you’ll find a list of all of many online products that compete with mine.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Visit each of their websites and create a table with the following information:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;company name
-landing page URL
-Main headline
-Sub-headline (if there is one)
-Text on the main call to action button
+  &lt;p&gt;Visit each of their websites and create a table with the following information:  &lt;br /&gt;
+company name &lt;br /&gt;
+landing page URL &lt;br /&gt;
+Main headline &lt;br /&gt;
+Sub-headline (if there is one) &lt;br /&gt;
+Text on the main call to action button &lt;br /&gt;
 Text near the main call to action button&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;For example this is from the first site on the list:&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Company Name: AgileZen&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;URL: agilezen.com&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Headline: Simple, visual and collaborative project management software.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sub-headline: AgileZen helps you and your team get things done quickly, efficiently, and effectively.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Button Text: Choose your plan&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Supporting Button text: none (I did not include “Take the Tour” because it’s not supporting text related to the button. If it said something like “30-day free trial” or “no credit card required” then I would include it. If you’re unsure whether a text is relevant, just include it and I’ll decide if it’s useful for me.)&lt;/p&gt;
+  &lt;p&gt;For example this is from the first site on the list: &lt;br /&gt;
+&lt;strong&gt;Company Name&lt;/strong&gt;: AgileZen &lt;br /&gt;
+&lt;strong&gt;URL&lt;/strong&gt;: agilezen.com &lt;br /&gt;
+&lt;strong&gt;Headline&lt;/strong&gt;: Simple, visual and collaborative project management software. &lt;br /&gt;
+&lt;strong&gt;Sub-headline&lt;/strong&gt;: AgileZen helps you and your team get things done quickly, efficiently, and effectively. &lt;br /&gt;
+&lt;strong&gt;Button Text&lt;/strong&gt;: Choose your plan &lt;br /&gt;
+&lt;strong&gt;Supporting Button text&lt;/strong&gt;: none (I did not include “Take the Tour” because it’s not supporting text related to the button. If it said something like “30-day free trial” or “no credit card required” then I would include it. If you’re unsure whether a text is relevant, just include it and I’ll decide if it’s useful for me.)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
