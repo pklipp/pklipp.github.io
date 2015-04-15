@@ -8,7 +8,10 @@ url: "http://uxwithpaul.com" # the base hostname & protocol for your site
 twitter_username: paulklipp
 github_username:  pklipp
 gems:
-  - jekyll-sitemap
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
 
 # Build settings
 markdown: kramdown
