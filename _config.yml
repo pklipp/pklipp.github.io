@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://uxwithpaul.com" # the base hostname & protocol for your site
 twitter_username: paulklipp
 github_username:  pklipp
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
