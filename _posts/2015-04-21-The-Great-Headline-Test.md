@@ -16,10 +16,10 @@ This week’s test is to determine if people even read headlines. To do that, I 
 
 Then I fired up Optimizely and started creating headline variations. The first test will have four variations:
 
-1) No headline (as it has been for several months)
-2) A conventional headline (the same thing most of the competitor’s use)
-3) A benefit headline, as recommended by Weibe’s book
-4) A nonsense headline, just to see if people read anything
+1. No headline (as it has been for several months)
+2. A conventional headline (the same thing most of the competitor’s use)
+3. A benefit headline, as recommended by Weibe’s book
+4. A nonsense headline, just to see if people read anything
 
 The conventional headline is the typical SEO-based “Visual Project Management Software.” I’d stick with this one if no one reads, because it’s an <h1> tag full of keywords, so at least Google will read it.
 
