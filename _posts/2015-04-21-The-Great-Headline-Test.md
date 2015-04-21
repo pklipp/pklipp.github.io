@@ -8,7 +8,7 @@ categories: copywriting
 
 I’ve read Joanna Wiebe’s “Headlines, Subheads, and Value Propositions” and I’m ready to start testing headlines. 
 
-The current version of the Kanbanery.com landing page is the result of an A/B test between the old page, with it’s traditional screenshots and benefits lists, and a simple testimonial page.
+The current version of the Kanbanery.com landing page is the result of an A/B test between the old page, with its traditional screenshots and benefits lists, and a simple testimonial page.
 
 Surely there’s still a lot of room for improvement.
 
