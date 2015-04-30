@@ -22,6 +22,12 @@ Next, I created a blank CSS file and hosted it on my own web server so I could m
 
 Then, I had to decide which elements to change, and what they were called. The easiest way I found to do that was to use the inspector in Chrome Developer Tools and click on the elements that I wanted to change.
 
+Just find the Chrome Developer Tools here:
+![Chrome Developer Tool Inspector]({{ pklipp.github.io }}/assets/14.png)
+
+Click on the magnifying glass and then on the element that you want information about.
+![Chrome Developer Tool Inspector]({{ pklipp.github.io }}/assets/15.png)
+
 One by one, I selected elements and changed their background colors to fit the superhero theme. 
 
 {% highlight css %}  
