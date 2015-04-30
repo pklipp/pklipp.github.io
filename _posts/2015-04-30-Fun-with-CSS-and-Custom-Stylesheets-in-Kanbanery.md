@@ -3,10 +3,10 @@ layout: post
 title:  "Fun with Custom CSS in Kanbanery"
 date:   2015-04-30 12:21:00
 comments: true
-categories: UX
+categories: Design
 ---
 
-I'm learning CSS and what better playground (other than this blog) than my product, Kanbanery.com.
+I'm learning CSS and what better playground (other than this blog) than my product, [Kanbanery.com](http://kanbanery.com).
 
 One of the features of the Pro plan at Kanbanery is that ability to apply custom CSS. Some people use it to make the header match their logo colors, but I wanted to try to completely change the look and feel of the site. 
 
