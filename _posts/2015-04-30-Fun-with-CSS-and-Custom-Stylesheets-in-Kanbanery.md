@@ -10,7 +10,7 @@ I'm learning CSS and what better playground (other than this blog) than my produ
 
 One of the features of the Pro plan at Kanbanery is that ability to apply custom CSS. Some people use it to make the header match their logo colors, but I wanted to try to completely change the look and feel of the site. 
 
-Here's a step-by-step tutorial about how I made an innocent Kanbanery board, known for it's professional and elegant style, into this monstrosity:
+Here's a step-by-step tutorial about how I made an innocent Kanbanery board, known for its professional and elegant style, into this monstrosity:
 
 ![After Custom CSS]({{ pklipp.github.io }}/assets/12.png)
 
@@ -42,9 +42,9 @@ a.toggle {
 }
 {% endhighlight %}
 
-I noticed that my changes didn't work consistently and faced a common frustration that I have with CSS and that's the C part. The fact that the style sheets are cascading is super powerful, but keeping track of those inheritances when you're just starting out and haven't developed a good style for managing large CSS files or collections of files is tricky. It's doubly so when intentionally overriding styles, but a friend told me an easy work around. Just add the tag !important, and no matter in what order the styles are loaded, the one from the external stylesheet that is intended to override existing styles will be applied.
+I noticed that my changes didn't work consistently and faced a common frustration that I have with CSS and that's the C part. The fact that the style sheets are cascading is super powerful, but keeping track of those inheritances when you're just starting out and haven't developed a good style for managing large CSS files or collections of files is tricky. It's doubly so when intentionally overriding styles, but a friend told me an easy workaround. Just add the tag !important, and no matter in what order the styles are loaded, the one from the external stylesheet that is intended to override existing styles will be applied.
 
-Then, to make it really wacky, I replaced the solid grey background of the board with a repeating image:
+Then, to make it really wacky, I replaced the solid gray background of the board with a repeating image:
 
 {% highlight css %}
 /* Change the background of the board */
@@ -62,7 +62,7 @@ Suddenly, I couldn't read the deadline warnings, so I set their background color
 }
 {% endhighlight %}
 
-I've never much liked the row at the top of the board which serves only to expand and collapse columns. It's a bit redundant if you don't have a lot of columns, so I removed it by setting its height to zero:
+I've never much liked the row at the top of the board, which serves only to expand and collapse columns. It's a bit redundant if you don't have a lot of columns, so I removed it by setting its height to zero:
 
 {% highlight css %}
 /* Hide the bar with the column names */
@@ -101,7 +101,7 @@ body {
 }
 {% endhighlight %}
 
-And then, just to learn how to work with shadows, I added a drop shadow around the the avatars like this:
+And then, just to learn how to work with shadows, I added a drop shadow around the avatars like this:
 
 {% highlight css %}
 /* Add a drop shadow around user avatar */
