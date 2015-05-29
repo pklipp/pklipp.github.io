@@ -1,10 +1,10 @@
-—
+-
 layout: post
 title:  “How to Stay Afloat as a Product Manager”
 date:   2015-05-29 09:17:00
 comments: true
 categories: general
-—
+-
 
 I’m struggling as a product manager, and this post contains no answers, but rather a desperate cry for help.
 
