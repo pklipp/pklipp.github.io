@@ -18,7 +18,7 @@ So far, my job seems to involve:
 4. Reaching out to new clients to understand their problems, contexts, and expectations and to help them understand how Kanbanery can help them, while also exploring how their experiences can help guide Kanbanery’s future.
 5. Creating feedback mechanisms to collect actionable data about how people are finding and using Kanbanery, and correlating that data to our PR efforts, public communications, email strategies, social media strategies, marketing activities, and product development such that we learn the effects of our decisions on our KPIs.
 6. Identifying those KPIs, verifying that they are the right things to be watching now, putting measures in place that I can trust, as well as measures to ensure that if those ever cease to be the right KPIs to track, I know it and can adjust.
-7. Creating the brand along with it’s image and voice and ensuring that all public communications, including PR, social media, emails, and in-app content are consistent.
+7. Creating the brand along with its image and voice and ensuring that all public communications, including PR, social media, emails, and in-app content are consistent.
 8. Writing all in-app, email, social media, and marketing copy and testing all of it to learn the most effective way of communicating in various situations.
 9. Defining the product roadmap and ensuring that it’s in line with the company’s vision and goals and that those visions and goals are in line with our target market’s needs and desires.
 10. Tracking the mountain of data that comes in every day from Google Analytics, Adwords, Customer.io, Hootsuite, Hotjar, Recurly, Optimizely, and our own custom metrics and deciding how to act on it.
