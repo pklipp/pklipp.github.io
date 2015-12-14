@@ -35,8 +35,6 @@ If you felt stuck in step one, there are ways to unstick yourself. Perhaps you k
 **Step three: Clustering**
 Now review your codes. Can they be grouped into themes? Perhaps two codes are basically the same thing and can be combined. If you're going through this process with new data (it is an iterative process) then perhaps your perspective of the groups has changed with the new data. There's a great video on YouTube illustrating how new data can alter our perspective on the existing data:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/nxIErzX3aQQ" frameborder="0" allowfullscreen></iframe>
-
 **Step four: Axial Coding**
 Now is the step in which you start making sense of the data. Axial coding is about looking for patterns in the codes themselves. Is the a relationship between sets of codes? For example, are one set of codes the result of another? Or are two sets in direct opposition to each other? Or maybe both. Perhaps one set of data is the cause of two very different reactions.
 
