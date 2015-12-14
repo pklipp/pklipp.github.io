@@ -1,10 +1,10 @@
-—
+—--
 layout: post
 title:  “What to do when you get back in to the building - making sense of qualitative data”
 date:   2015-12-14 13:45:00
 comments: true
 categories: general
-—
+—--
 
 *“Never theorise before you have data. Invariably you end up twisting facts to suit theories instead of theories to suit facts.” - Sherlock Holmes*
 
