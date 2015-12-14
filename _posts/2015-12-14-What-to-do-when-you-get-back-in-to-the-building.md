@@ -7,7 +7,7 @@ categories: general
 ---
 *“Never theorise before you have data. Invariably you end up twisting facts to suit theories instead of theories to suit facts.” - Sherlock Holmes*
 
-I've amassed a lot of data from Kanbanery users over the past six months or so. I have survey data, mostly with open-ended questions, support emails, requests and questions sent directly to me, and interview transcripts.
+I've amassed a lot of data from [Kanbanery](http://get.kanbanery.com) users over the past six months or so. I have survey data, mostly with open-ended questions, support emails, requests and questions sent directly to me, and interview transcripts.
 
 The books I've read that target product managers, startup leaders, and "growth hackers" have all been disappointing in terms of what to do with this data, and focus more on collecting the data. Getting out of the building is great, but what to do with all those notes and transcripts?
 
